@@ -1,0 +1,26 @@
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/countdown5.mp3"},
+    "4":{"url":"https://github.com/anars/blank-audio/raw/92f06aaa1f1f4cae365af4a256b04cf9014de564/1-second-of-silence.mp3"},
+    "5":{"url":"https://github.com/anars/blank-audio/raw/92f06aaa1f1f4cae365af4a256b04cf9014de564/1-second-of-silence.mp3"},
+    "6":{"url":"https://files.riichi.moe/mjg/game%20resources%20and%20tools/Mahjong%20Soul/game%20files/sounds%20effects%2C%20game%20music/audio_mj/discard_tile.mp3"},
+    "7":{"url":"https://github.com/anars/blank-audio/raw/92f06aaa1f1f4cae365af4a256b04cf9014de564/1-second-of-silence.mp3"},
+    "10":{"url":"https://files.riichi.moe/mjg/game%20resources%20and%20tools/Mahjong%20Soul/game%20files/sounds%20effects%2C%20game%20music/audio_mj/new_dora.mp3"},
+    "11":{"url":"https://files.riichi.moe/mjg/game%20resources%20and%20tools/Mahjong%20Soul/game%20files/sounds%20effects%2C%20game%20music/audio_mj/rankchange.mp3"},
+    "25":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_pon.wav"},
+    "26":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_pon.wav"},
+    "27":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_kan.wav"},
+    "28":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_kan.wav"},
+    "29":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_chi.wav"},
+    "30":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_chi.wav"},
+    "31":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_rich.wav"},
+    "32":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_rich.wav"},
+    "33":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_ron.wav"},
+    "34":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_ron.wav"},
+    "35":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_tumo.wav"},
+    "36":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_tumo.wav"},
+    "40":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/winlose.mp3"},
+    "41":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/yakuman.mp3"}
+  }
+}
